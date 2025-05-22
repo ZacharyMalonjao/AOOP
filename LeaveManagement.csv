@@ -1,0 +1,39 @@
+1,7,San Jose,Brad,HR Team Leader,Vacation,08/15/2024,08/22/2024,Pending
+2,14,Martinez,Leila,Payroll Rank and File,Sick,10/10/2024,10/20/2024,Pending
+3,21,Bautista,Mark,Account Rank and File,Vacation,01/05/2025,01/14/2025,Pending
+4,28,Lizeth,Villegas,Account Rank and File,Sick,04/01/2025,04/12/2025,Pending
+5,15,Romualdez,Fredrick,Account Manager,Sick,11/06/2024,11/16/2024,Pending
+6,23,Santos,Vella,Account Rank and File,Vacation,12/04/2024,12/07/2024,Pending
+7,24,Del Rosario,Tomas,Account Rank and File,Sick,01/27/2025,02/05/2025,Pending
+8,27,Manalaysay,Garfield,Account Rank and File,Sick,08/12/2024,08/26/2024,Pending
+9,28,Villegas,Lizeth,Account Rank and File,Vacation,11/11/2024,11/14/2024,Pending
+10,7,San Jose,Brad,HR Team Leader,Vacation,11/01/2024,11/12/2024,Pending
+11,1,Garcia,Manuel III,Chief Executive Officer,Vacation,09/27/2024,09/28/2024,Pending
+12,30,Maceda,Emelia,Account Rank and File,Vacation,05/28/2025,06/04/2025,Pending
+13,25,Tolentino,Jacklyn,Account Rank and File,Sick,10/30/2024,11/07/2024,Pending
+14,2,Lim,Antonio,Chief Operating Officer,Vacation,06/28/2024,06/29/2024,Pending
+15,3,Aquino,Bianca Sofia,Chief Finance Officer,Vacation,06/29/2024,06/30/2024,Pending
+16,4,Reyes,Isabella,Chief Marketing Officer,Vacation,06/28/2024,06/29/2024,Pending
+17,5,Hernandez,Eduard,IT Operations and Systems,Sick,06/30/2024,07/01/2024,Pending
+18,1,Garcia,Manuel III,Chief Executive Officer,Sick,06/29/2024,06/30/2024,Pending
+19,1,Garcia,Manuel III,Chief Executive Officer,Sick,06/28/2024,06/30/2024,Pending
+20,4,Reyes,Isabella,Chief Marketing Officer,Vacation,06/28/2024,06/29/2024,Denied
+21,21,Lazaro,Darlene,Account Rank and File,Vacation,07/01/2024,07/01/2024,Denied
+22,21,Lazaro,Darlene,Account Rank and File,Vacation,07/18/2024,07/19/2024,Approved
+23,5,Hernandez,Eduard,IT Operations and Systems,Vacation,07/01/2024,07/01/2024,Denied
+24,3,Aquino,Bianca Sofia,Chief Finance Officer,Vacation,07/24/2024,07/25/2024,Approved
+25,1,Garcia,Manuel III,Chief Executive Officer,Vacation,12/12/2024,12/24/2024,Approved
+26,1,Garcia,Manuel III,Chief Executive Officer,Sick,01/14/2025,01/15/2025,Approved
+27,2,Antonio,Lim,Chief Operating Officer,Sick Leave,02/27/2025,02/28/2025,Denied
+28,2,Antonio,Lim,Chief Operating Officer,Sick Leave,02/28/2025,02/27/2025,Approved
+29,2,Antonio,Lim,Chief Operating Officer,Sick Leave,03/08/2025,03/09/2025,Pending
+30,2,Antonio,Lim,Chief Operating Officer,Vacation Leave,03/08/2025,03/09/2025,Pending
+31,2,Antonio,Lim,Chief Operating Officer,Bereavement Leave,03/08/2025,03/09/2025,Pending
+32,2,Antonio,Lim,Chief Operating Officer,Another Type of Leave,03/08/2025,03/09/2025,Pending
+33,2,Antonio,Lim,Chief Operating Officer,Vacation Leave,03/19/2025,03/19/2025,Pending
+34,2,Antonio,Lim,Chief Operating Officer,Bereavement Leave,03/19/2025,03/27/2025,Denied
+35,2,Antonio,Lim,Chief Operating Officer,Sick Leave,03/19/2025,03/27/2025,Denied
+36,2,Antonio,Lim,Chief Operating Officer,Sick Leave,03/18/2025,03/27/2025,Denied
+37,2,Antonio,Lim,Chief Operating Officer,Sick Leave,03/18/2025,03/27/2025,Pending
+38,2,Antonio,Lim,Chief Operating Officer,Sick Leave,03/18/2025,03/18/2025,Pending
+33,2,Antonio,Lim,Chief Operating Officer,Sick Leave,03/17/2025,03/18/2025,Pending
